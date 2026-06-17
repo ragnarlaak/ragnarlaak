@@ -1,6 +1,6 @@
 # Ragnar Laak
 
-BI / Data Analyst focused on SQL, Power BI, Tableau, Python/pandas, PostgreSQL/Supabase, and clear business reporting.
+BI / Data Analyst | SQL, Power BI, Tableau, Python/pandas | Clear business reporting
 
 ## Featured Portfolio
 
