@@ -1,6 +1,6 @@
 # Ragnar Laak
 
-Junior BI / Data Analyst focused on SQL, Power BI, Python/pandas, PostgreSQL/Supabase, and clear business reporting.
+BI / Data Analyst focused on SQL, Power BI, Tableau, Python/pandas, PostgreSQL/Supabase, and clear business reporting.
 
 ## Featured Portfolio
 
@@ -12,6 +12,7 @@ The portfolio includes practical work in:
 
 - SQL data quality checks, joins, and aggregation
 - Power BI dashboarding and business storytelling
+- Tableau customer revenue impact dashboarding
 - Python/pandas customer segmentation
 - Repeatable Python reporting pipeline workflows
 
