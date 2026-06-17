@@ -1,6 +1,6 @@
 # Ragnar Laak
 
-BI / Data Analyst | SQL, Power BI, Tableau, Python/pandas | Clear business reporting
+BI / Data Analyst | SQL, Power BI, Tableau, Python/pandas | Business Reporting & Data Insights
 
 ## Featured Portfolio
 
